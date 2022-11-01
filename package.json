@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "A canvas spider / radar chart Component for React",
   "author": "alex90badea",
+  "keywords": [
+    "react",
+    "chart",
+    "radar",
+    "spider",
+    "tal-chart"
+  ],
   "license": "MIT",
   "repository": "alex90badea/tal-chart",
   "main": "dist/index.js",

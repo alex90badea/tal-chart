@@ -36,6 +36,16 @@ export default App
 
 ![img](https://raw.githubusercontent.com/alex90badea/tal-chart/master/example/img.png)
 
+## Props
+
+
+| Prop        | Type           | Description  |
+| ------------- |-------------| -----|
+| **labels** | `Array<string>`  | Array of all the labels |
+| **datasets** | `Array<Array<number>>` | Array of arrays, each sub array contains the values for each dataset in range from 0 to 1 |
+| **colors** | `Array<Array<string>>`  | Array of arrays, each sub array matching the dataset index. Each sub array needs to have 2 elements, first element for background color and second for border color |
+
+
 ## License
 
 MIT © [alex90badea](https://github.com/alex90badea)

@@ -32,6 +32,10 @@ const App = () => {
 export default App
 ```
 
+## Snapshot
+
+![img](https://raw.githubusercontent.com/alex90badea/tal-chart/master/example/img.png)
+
 ## License
 
 MIT © [alex90badea](https://github.com/alex90badea)

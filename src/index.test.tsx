@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { TalChart } from '.'
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(TalChart).toBeTruthy()
   })
 })

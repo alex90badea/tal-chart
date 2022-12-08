@@ -46,7 +46,7 @@ export default class Chart {
           this.imageList[src] = img
         })
       })
-      await Promise.all(promises);
+      await Promise.all(promises)
     }
     this.imageList.length > 0 && (await preloadImages(this.imageList))
   }
